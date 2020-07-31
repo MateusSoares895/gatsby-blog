@@ -1,0 +1,9 @@
+{
+  "name": "gatsby-blog",
+  "short_name": "blog",
+  "start_url": "/",
+  "background_color": "#6633cc",
+  "theme_color": "#6633cc",
+  "display": "minimal-ui",
+  "cacheDigest": "4a9773549091c227cd2eb82ccd9c5e3a"
+}
